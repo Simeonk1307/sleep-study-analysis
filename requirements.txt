@@ -1,5 +1,5 @@
-seaborn
-matplotlib
-pandas
-numpy
-scipy
+seaborn==0.13.2  
+matplotlib==3.8.4  
+pandas==2.2.2  
+numpy==1.26.4  
+scipy==1.13.1
