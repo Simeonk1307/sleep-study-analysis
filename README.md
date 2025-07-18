@@ -25,4 +25,6 @@ This project is part of a **Probability and Statistics** course and aims to anal
 - **Credit**: Dataset `sleepstudy.csv` collected and curated by **[Andrew Roman](https://github.com/aero-man/sleep-deprivation-study/blob/main/sleepstudy.csv)**
 - **Report**: [Google Docs Report](https://docs.google.com/document/d/1VDMlI2Uj8fDYN4hBlUXrAtIcScVBasNuIl2WNcPBTl0/edit?usp=sharing)
 
+## Note: Use a compatible python version (optionally 3.12). Installation may not work for >=3.13 versions.
+
 
